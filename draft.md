@@ -104,6 +104,9 @@ Buenos Aires, Argentina.
 
 More past events at [R conferences & meetups](https://conf.rweekly.org).
 
+More upcoming useR Group and R-Ladies events this week at [RStudio Community](https://community.rstudio.com/c/irl). <br />
+There are 22 events listed this week.
+
 ### Datasets
 
 
